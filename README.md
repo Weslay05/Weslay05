@@ -2,8 +2,8 @@
 
 ---
 
-- I'm Learning 🐰
-- I speak only German and English 😭
+- Learning to do things 🐰
+- I speak German and English
 - I code for Hobby in my freetime 🔥
 - I like Tech & Science 😸
 
