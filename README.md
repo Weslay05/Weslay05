@@ -1,11 +1,8 @@
-### ✨ Hi, I’m Weslay! 👋
 
----
-
-- Learning to do things 🐰
-- I speak German and English
-- I code for Hobby in my freetime 🔥
-- I like Tech & Science 😸
+Hobby:
+- Zahl: **48**
+- Zahlensystem: **duodecimal**
+- Kürzel: **TOFU**
 
 [![weslay05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weslay05&show_icons=true&theme=radical)](https://github.com/weslay05)  
 
