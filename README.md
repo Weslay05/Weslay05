@@ -4,7 +4,7 @@ Hobby:
 - Zahlensystem: **duodecimal**
 - Kürzel: **TOFU**
 
-[![weslay05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weslay05&show_icons=true&theme=radical)](https://github.com/weslay05)  
+[![vercel (OUTDATED)](https://github-readme-stats.vercel.app/api?username=weslay05&show_icons=true&theme=radical)](https://github.com/weslay05)  
 
 ```
  /\_/\
